@@ -1,0 +1,15 @@
+[theme]
+# 메인 컬러 (SOOP 브랜드 블루)
+primaryColor = "#0056FF"
+
+# 대시보드 배경색 (깔끔한 흰색)
+backgroundColor = "#FFFFFF"
+
+# 좌측 사이드바 배경색 (아주 옅은 회색)
+secondaryBackgroundColor = "#F4F6F9"
+
+# 기본 글자색 (가독성 좋은 진한 회색)
+textColor = "#111111"
+
+# 폰트 스타일
+font = "sans serif"
